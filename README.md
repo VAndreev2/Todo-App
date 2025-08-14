@@ -1,1 +1,1 @@
-Test Todo app to react for junior
+Test Todo react-app for junior
